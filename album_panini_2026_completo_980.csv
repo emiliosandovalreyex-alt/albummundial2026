@@ -1,0 +1,981 @@
+ID_Cromo,Seleccion,Confederacion,Nombre_Jugador,Posicion
+ESP_01,FIFA/Especial,FIFA,FIFA Logo,Especial
+ESP_02,FIFA/Especial,FIFA,Trofeo Copa del Mundo,Especial
+ESP_03,FIFA/Especial,FIFA,Mascota Oficial,Especial
+ESP_04,FIFA/Especial,FIFA,Balón Oficial,Especial
+ESP_05,FIFA/Especial,FIFA,Estadio Azteca (CDMX),Especial
+ESP_06,FIFA/Especial,FIFA,Estadio BBVA (Monterrey),Especial
+ESP_07,FIFA/Especial,FIFA,Estadio Akron (Guadalajara),Especial
+ESP_08,FIFA/Especial,FIFA,MetLife Stadium (NY),Especial
+ESP_09,FIFA/Especial,FIFA,SoFi Stadium (LA),Especial
+ESP_10,FIFA/Especial,FIFA,Mercedes-Benz Stadium (Atlanta),Especial
+ESP_11,FIFA/Especial,FIFA,Hard Rock Stadium (Miami),Especial
+ESP_12,FIFA/Especial,FIFA,Lumen Field (Seattle),Especial
+ESP_13,FIFA/Especial,FIFA,BC Place (Vancouver),Especial
+ESP_14,FIFA/Especial,FIFA,BMO Field (Toronto),Especial
+ESP_15,FIFA/Especial,FIFA,Póster Host City 1,Especial
+ESP_16,FIFA/Especial,FIFA,Póster Host City 2,Especial
+ESP_17,FIFA/Especial,FIFA,Póster Host City 3,Especial
+ESP_18,FIFA/Especial,FIFA,Póster Host City 4,Especial
+ESP_19,FIFA/Especial,FIFA,Fair Play Logo,Especial
+ESP_20,FIFA/Especial,FIFA,FIFA Museum,Especial
+MEX_01,México,CONCACAF,Escudo Selección,Especial
+MEX_02,México,CONCACAF,Jugador 1,Jugador
+MEX_03,México,CONCACAF,Jugador 2,Jugador
+MEX_04,México,CONCACAF,Jugador 3,Jugador
+MEX_05,México,CONCACAF,Jugador 4,Jugador
+MEX_06,México,CONCACAF,Jugador 5,Jugador
+MEX_07,México,CONCACAF,Jugador 6,Jugador
+MEX_08,México,CONCACAF,Jugador 7,Jugador
+MEX_09,México,CONCACAF,Jugador 8,Jugador
+MEX_10,México,CONCACAF,Jugador 9,Jugador
+MEX_11,México,CONCACAF,Jugador 10,Jugador
+MEX_12,México,CONCACAF,Jugador 11,Jugador
+MEX_13,México,CONCACAF,Jugador 12,Jugador
+MEX_14,México,CONCACAF,Jugador 13,Jugador
+MEX_15,México,CONCACAF,Jugador 14,Jugador
+MEX_16,México,CONCACAF,Jugador 15,Jugador
+MEX_17,México,CONCACAF,Jugador 16,Jugador
+MEX_18,México,CONCACAF,Jugador 17,Jugador
+MEX_19,México,CONCACAF,Jugador 18,Jugador
+MEX_20,México,CONCACAF,Foto de Equipo,Especial
+USA_01,Estados Unidos,CONCACAF,Escudo Selección,Especial
+USA_02,Estados Unidos,CONCACAF,Jugador 1,Jugador
+USA_03,Estados Unidos,CONCACAF,Jugador 2,Jugador
+USA_04,Estados Unidos,CONCACAF,Jugador 3,Jugador
+USA_05,Estados Unidos,CONCACAF,Jugador 4,Jugador
+USA_06,Estados Unidos,CONCACAF,Jugador 5,Jugador
+USA_07,Estados Unidos,CONCACAF,Jugador 6,Jugador
+USA_08,Estados Unidos,CONCACAF,Jugador 7,Jugador
+USA_09,Estados Unidos,CONCACAF,Jugador 8,Jugador
+USA_10,Estados Unidos,CONCACAF,Jugador 9,Jugador
+USA_11,Estados Unidos,CONCACAF,Jugador 10,Jugador
+USA_12,Estados Unidos,CONCACAF,Jugador 11,Jugador
+USA_13,Estados Unidos,CONCACAF,Jugador 12,Jugador
+USA_14,Estados Unidos,CONCACAF,Jugador 13,Jugador
+USA_15,Estados Unidos,CONCACAF,Jugador 14,Jugador
+USA_16,Estados Unidos,CONCACAF,Jugador 15,Jugador
+USA_17,Estados Unidos,CONCACAF,Jugador 16,Jugador
+USA_18,Estados Unidos,CONCACAF,Jugador 17,Jugador
+USA_19,Estados Unidos,CONCACAF,Jugador 18,Jugador
+USA_20,Estados Unidos,CONCACAF,Foto de Equipo,Especial
+CAN_01,Canadá,CONCACAF,Escudo Selección,Especial
+CAN_02,Canadá,CONCACAF,Jugador 1,Jugador
+CAN_03,Canadá,CONCACAF,Jugador 2,Jugador
+CAN_04,Canadá,CONCACAF,Jugador 3,Jugador
+CAN_05,Canadá,CONCACAF,Jugador 4,Jugador
+CAN_06,Canadá,CONCACAF,Jugador 5,Jugador
+CAN_07,Canadá,CONCACAF,Jugador 6,Jugador
+CAN_08,Canadá,CONCACAF,Jugador 7,Jugador
+CAN_09,Canadá,CONCACAF,Jugador 8,Jugador
+CAN_10,Canadá,CONCACAF,Jugador 9,Jugador
+CAN_11,Canadá,CONCACAF,Jugador 10,Jugador
+CAN_12,Canadá,CONCACAF,Jugador 11,Jugador
+CAN_13,Canadá,CONCACAF,Jugador 12,Jugador
+CAN_14,Canadá,CONCACAF,Jugador 13,Jugador
+CAN_15,Canadá,CONCACAF,Jugador 14,Jugador
+CAN_16,Canadá,CONCACAF,Jugador 15,Jugador
+CAN_17,Canadá,CONCACAF,Jugador 16,Jugador
+CAN_18,Canadá,CONCACAF,Jugador 17,Jugador
+CAN_19,Canadá,CONCACAF,Jugador 18,Jugador
+CAN_20,Canadá,CONCACAF,Foto de Equipo,Especial
+PAN_01,Panamá,CONCACAF,Escudo Selección,Especial
+PAN_02,Panamá,CONCACAF,Jugador 1,Jugador
+PAN_03,Panamá,CONCACAF,Jugador 2,Jugador
+PAN_04,Panamá,CONCACAF,Jugador 3,Jugador
+PAN_05,Panamá,CONCACAF,Jugador 4,Jugador
+PAN_06,Panamá,CONCACAF,Jugador 5,Jugador
+PAN_07,Panamá,CONCACAF,Jugador 6,Jugador
+PAN_08,Panamá,CONCACAF,Jugador 7,Jugador
+PAN_09,Panamá,CONCACAF,Jugador 8,Jugador
+PAN_10,Panamá,CONCACAF,Jugador 9,Jugador
+PAN_11,Panamá,CONCACAF,Jugador 10,Jugador
+PAN_12,Panamá,CONCACAF,Jugador 11,Jugador
+PAN_13,Panamá,CONCACAF,Jugador 12,Jugador
+PAN_14,Panamá,CONCACAF,Jugador 13,Jugador
+PAN_15,Panamá,CONCACAF,Jugador 14,Jugador
+PAN_16,Panamá,CONCACAF,Jugador 15,Jugador
+PAN_17,Panamá,CONCACAF,Jugador 16,Jugador
+PAN_18,Panamá,CONCACAF,Jugador 17,Jugador
+PAN_19,Panamá,CONCACAF,Jugador 18,Jugador
+PAN_20,Panamá,CONCACAF,Foto de Equipo,Especial
+CRC_01,Costa Rica,CONCACAF,Escudo Selección,Especial
+CRC_02,Costa Rica,CONCACAF,Jugador 1,Jugador
+CRC_03,Costa Rica,CONCACAF,Jugador 2,Jugador
+CRC_04,Costa Rica,CONCACAF,Jugador 3,Jugador
+CRC_05,Costa Rica,CONCACAF,Jugador 4,Jugador
+CRC_06,Costa Rica,CONCACAF,Jugador 5,Jugador
+CRC_07,Costa Rica,CONCACAF,Jugador 6,Jugador
+CRC_08,Costa Rica,CONCACAF,Jugador 7,Jugador
+CRC_09,Costa Rica,CONCACAF,Jugador 8,Jugador
+CRC_10,Costa Rica,CONCACAF,Jugador 9,Jugador
+CRC_11,Costa Rica,CONCACAF,Jugador 10,Jugador
+CRC_12,Costa Rica,CONCACAF,Jugador 11,Jugador
+CRC_13,Costa Rica,CONCACAF,Jugador 12,Jugador
+CRC_14,Costa Rica,CONCACAF,Jugador 13,Jugador
+CRC_15,Costa Rica,CONCACAF,Jugador 14,Jugador
+CRC_16,Costa Rica,CONCACAF,Jugador 15,Jugador
+CRC_17,Costa Rica,CONCACAF,Jugador 16,Jugador
+CRC_18,Costa Rica,CONCACAF,Jugador 17,Jugador
+CRC_19,Costa Rica,CONCACAF,Jugador 18,Jugador
+CRC_20,Costa Rica,CONCACAF,Foto de Equipo,Especial
+JAM_01,Jamaica,CONCACAF,Escudo Selección,Especial
+JAM_02,Jamaica,CONCACAF,Jugador 1,Jugador
+JAM_03,Jamaica,CONCACAF,Jugador 2,Jugador
+JAM_04,Jamaica,CONCACAF,Jugador 3,Jugador
+JAM_05,Jamaica,CONCACAF,Jugador 4,Jugador
+JAM_06,Jamaica,CONCACAF,Jugador 5,Jugador
+JAM_07,Jamaica,CONCACAF,Jugador 6,Jugador
+JAM_08,Jamaica,CONCACAF,Jugador 7,Jugador
+JAM_09,Jamaica,CONCACAF,Jugador 8,Jugador
+JAM_10,Jamaica,CONCACAF,Jugador 9,Jugador
+JAM_11,Jamaica,CONCACAF,Jugador 10,Jugador
+JAM_12,Jamaica,CONCACAF,Jugador 11,Jugador
+JAM_13,Jamaica,CONCACAF,Jugador 12,Jugador
+JAM_14,Jamaica,CONCACAF,Jugador 13,Jugador
+JAM_15,Jamaica,CONCACAF,Jugador 14,Jugador
+JAM_16,Jamaica,CONCACAF,Jugador 15,Jugador
+JAM_17,Jamaica,CONCACAF,Jugador 16,Jugador
+JAM_18,Jamaica,CONCACAF,Jugador 17,Jugador
+JAM_19,Jamaica,CONCACAF,Jugador 18,Jugador
+JAM_20,Jamaica,CONCACAF,Foto de Equipo,Especial
+ARG_01,Argentina,CONMEBOL,Escudo Selección,Especial
+ARG_02,Argentina,CONMEBOL,Jugador 1,Jugador
+ARG_03,Argentina,CONMEBOL,Jugador 2,Jugador
+ARG_04,Argentina,CONMEBOL,Jugador 3,Jugador
+ARG_05,Argentina,CONMEBOL,Jugador 4,Jugador
+ARG_06,Argentina,CONMEBOL,Jugador 5,Jugador
+ARG_07,Argentina,CONMEBOL,Jugador 6,Jugador
+ARG_08,Argentina,CONMEBOL,Jugador 7,Jugador
+ARG_09,Argentina,CONMEBOL,Jugador 8,Jugador
+ARG_10,Argentina,CONMEBOL,Jugador 9,Jugador
+ARG_11,Argentina,CONMEBOL,Jugador 10,Jugador
+ARG_12,Argentina,CONMEBOL,Jugador 11,Jugador
+ARG_13,Argentina,CONMEBOL,Jugador 12,Jugador
+ARG_14,Argentina,CONMEBOL,Jugador 13,Jugador
+ARG_15,Argentina,CONMEBOL,Jugador 14,Jugador
+ARG_16,Argentina,CONMEBOL,Jugador 15,Jugador
+ARG_17,Argentina,CONMEBOL,Jugador 16,Jugador
+ARG_18,Argentina,CONMEBOL,Jugador 17,Jugador
+ARG_19,Argentina,CONMEBOL,Jugador 18,Jugador
+ARG_20,Argentina,CONMEBOL,Foto de Equipo,Especial
+BRA_01,Brasil,CONMEBOL,Escudo Selección,Especial
+BRA_02,Brasil,CONMEBOL,Jugador 1,Jugador
+BRA_03,Brasil,CONMEBOL,Jugador 2,Jugador
+BRA_04,Brasil,CONMEBOL,Jugador 3,Jugador
+BRA_05,Brasil,CONMEBOL,Jugador 4,Jugador
+BRA_06,Brasil,CONMEBOL,Jugador 5,Jugador
+BRA_07,Brasil,CONMEBOL,Jugador 6,Jugador
+BRA_08,Brasil,CONMEBOL,Jugador 7,Jugador
+BRA_09,Brasil,CONMEBOL,Jugador 8,Jugador
+BRA_10,Brasil,CONMEBOL,Jugador 9,Jugador
+BRA_11,Brasil,CONMEBOL,Jugador 10,Jugador
+BRA_12,Brasil,CONMEBOL,Jugador 11,Jugador
+BRA_13,Brasil,CONMEBOL,Jugador 12,Jugador
+BRA_14,Brasil,CONMEBOL,Jugador 13,Jugador
+BRA_15,Brasil,CONMEBOL,Jugador 14,Jugador
+BRA_16,Brasil,CONMEBOL,Jugador 15,Jugador
+BRA_17,Brasil,CONMEBOL,Jugador 16,Jugador
+BRA_18,Brasil,CONMEBOL,Jugador 17,Jugador
+BRA_19,Brasil,CONMEBOL,Jugador 18,Jugador
+BRA_20,Brasil,CONMEBOL,Foto de Equipo,Especial
+URU_01,Uruguay,CONMEBOL,Escudo Selección,Especial
+URU_02,Uruguay,CONMEBOL,Jugador 1,Jugador
+URU_03,Uruguay,CONMEBOL,Jugador 2,Jugador
+URU_04,Uruguay,CONMEBOL,Jugador 3,Jugador
+URU_05,Uruguay,CONMEBOL,Jugador 4,Jugador
+URU_06,Uruguay,CONMEBOL,Jugador 5,Jugador
+URU_07,Uruguay,CONMEBOL,Jugador 6,Jugador
+URU_08,Uruguay,CONMEBOL,Jugador 7,Jugador
+URU_09,Uruguay,CONMEBOL,Jugador 8,Jugador
+URU_10,Uruguay,CONMEBOL,Jugador 9,Jugador
+URU_11,Uruguay,CONMEBOL,Jugador 10,Jugador
+URU_12,Uruguay,CONMEBOL,Jugador 11,Jugador
+URU_13,Uruguay,CONMEBOL,Jugador 12,Jugador
+URU_14,Uruguay,CONMEBOL,Jugador 13,Jugador
+URU_15,Uruguay,CONMEBOL,Jugador 14,Jugador
+URU_16,Uruguay,CONMEBOL,Jugador 15,Jugador
+URU_17,Uruguay,CONMEBOL,Jugador 16,Jugador
+URU_18,Uruguay,CONMEBOL,Jugador 17,Jugador
+URU_19,Uruguay,CONMEBOL,Jugador 18,Jugador
+URU_20,Uruguay,CONMEBOL,Foto de Equipo,Especial
+COL_01,Colombia,CONMEBOL,Escudo Selección,Especial
+COL_02,Colombia,CONMEBOL,Jugador 1,Jugador
+COL_03,Colombia,CONMEBOL,Jugador 2,Jugador
+COL_04,Colombia,CONMEBOL,Jugador 3,Jugador
+COL_05,Colombia,CONMEBOL,Jugador 4,Jugador
+COL_06,Colombia,CONMEBOL,Jugador 5,Jugador
+COL_07,Colombia,CONMEBOL,Jugador 6,Jugador
+COL_08,Colombia,CONMEBOL,Jugador 7,Jugador
+COL_09,Colombia,CONMEBOL,Jugador 8,Jugador
+COL_10,Colombia,CONMEBOL,Jugador 9,Jugador
+COL_11,Colombia,CONMEBOL,Jugador 10,Jugador
+COL_12,Colombia,CONMEBOL,Jugador 11,Jugador
+COL_13,Colombia,CONMEBOL,Jugador 12,Jugador
+COL_14,Colombia,CONMEBOL,Jugador 13,Jugador
+COL_15,Colombia,CONMEBOL,Jugador 14,Jugador
+COL_16,Colombia,CONMEBOL,Jugador 15,Jugador
+COL_17,Colombia,CONMEBOL,Jugador 16,Jugador
+COL_18,Colombia,CONMEBOL,Jugador 17,Jugador
+COL_19,Colombia,CONMEBOL,Jugador 18,Jugador
+COL_20,Colombia,CONMEBOL,Foto de Equipo,Especial
+ECU_01,Ecuador,CONMEBOL,Escudo Selección,Especial
+ECU_02,Ecuador,CONMEBOL,Jugador 1,Jugador
+ECU_03,Ecuador,CONMEBOL,Jugador 2,Jugador
+ECU_04,Ecuador,CONMEBOL,Jugador 3,Jugador
+ECU_05,Ecuador,CONMEBOL,Jugador 4,Jugador
+ECU_06,Ecuador,CONMEBOL,Jugador 5,Jugador
+ECU_07,Ecuador,CONMEBOL,Jugador 6,Jugador
+ECU_08,Ecuador,CONMEBOL,Jugador 7,Jugador
+ECU_09,Ecuador,CONMEBOL,Jugador 8,Jugador
+ECU_10,Ecuador,CONMEBOL,Jugador 9,Jugador
+ECU_11,Ecuador,CONMEBOL,Jugador 10,Jugador
+ECU_12,Ecuador,CONMEBOL,Jugador 11,Jugador
+ECU_13,Ecuador,CONMEBOL,Jugador 12,Jugador
+ECU_14,Ecuador,CONMEBOL,Jugador 13,Jugador
+ECU_15,Ecuador,CONMEBOL,Jugador 14,Jugador
+ECU_16,Ecuador,CONMEBOL,Jugador 15,Jugador
+ECU_17,Ecuador,CONMEBOL,Jugador 16,Jugador
+ECU_18,Ecuador,CONMEBOL,Jugador 17,Jugador
+ECU_19,Ecuador,CONMEBOL,Jugador 18,Jugador
+ECU_20,Ecuador,CONMEBOL,Foto de Equipo,Especial
+PAR_01,Paraguay,CONMEBOL,Escudo Selección,Especial
+PAR_02,Paraguay,CONMEBOL,Jugador 1,Jugador
+PAR_03,Paraguay,CONMEBOL,Jugador 2,Jugador
+PAR_04,Paraguay,CONMEBOL,Jugador 3,Jugador
+PAR_05,Paraguay,CONMEBOL,Jugador 4,Jugador
+PAR_06,Paraguay,CONMEBOL,Jugador 5,Jugador
+PAR_07,Paraguay,CONMEBOL,Jugador 6,Jugador
+PAR_08,Paraguay,CONMEBOL,Jugador 7,Jugador
+PAR_09,Paraguay,CONMEBOL,Jugador 8,Jugador
+PAR_10,Paraguay,CONMEBOL,Jugador 9,Jugador
+PAR_11,Paraguay,CONMEBOL,Jugador 10,Jugador
+PAR_12,Paraguay,CONMEBOL,Jugador 11,Jugador
+PAR_13,Paraguay,CONMEBOL,Jugador 12,Jugador
+PAR_14,Paraguay,CONMEBOL,Jugador 13,Jugador
+PAR_15,Paraguay,CONMEBOL,Jugador 14,Jugador
+PAR_16,Paraguay,CONMEBOL,Jugador 15,Jugador
+PAR_17,Paraguay,CONMEBOL,Jugador 16,Jugador
+PAR_18,Paraguay,CONMEBOL,Jugador 17,Jugador
+PAR_19,Paraguay,CONMEBOL,Jugador 18,Jugador
+PAR_20,Paraguay,CONMEBOL,Foto de Equipo,Especial
+CHI_01,Chile,CONMEBOL,Escudo Selección,Especial
+CHI_02,Chile,CONMEBOL,Jugador 1,Jugador
+CHI_03,Chile,CONMEBOL,Jugador 2,Jugador
+CHI_04,Chile,CONMEBOL,Jugador 3,Jugador
+CHI_05,Chile,CONMEBOL,Jugador 4,Jugador
+CHI_06,Chile,CONMEBOL,Jugador 5,Jugador
+CHI_07,Chile,CONMEBOL,Jugador 6,Jugador
+CHI_08,Chile,CONMEBOL,Jugador 7,Jugador
+CHI_09,Chile,CONMEBOL,Jugador 8,Jugador
+CHI_10,Chile,CONMEBOL,Jugador 9,Jugador
+CHI_11,Chile,CONMEBOL,Jugador 10,Jugador
+CHI_12,Chile,CONMEBOL,Jugador 11,Jugador
+CHI_13,Chile,CONMEBOL,Jugador 12,Jugador
+CHI_14,Chile,CONMEBOL,Jugador 13,Jugador
+CHI_15,Chile,CONMEBOL,Jugador 14,Jugador
+CHI_16,Chile,CONMEBOL,Jugador 15,Jugador
+CHI_17,Chile,CONMEBOL,Jugador 16,Jugador
+CHI_18,Chile,CONMEBOL,Jugador 17,Jugador
+CHI_19,Chile,CONMEBOL,Jugador 18,Jugador
+CHI_20,Chile,CONMEBOL,Foto de Equipo,Especial
+ESP_01,España,UEFA,Escudo Selección,Especial
+ESP_02,España,UEFA,Jugador 1,Jugador
+ESP_03,España,UEFA,Jugador 2,Jugador
+ESP_04,España,UEFA,Jugador 3,Jugador
+ESP_05,España,UEFA,Jugador 4,Jugador
+ESP_06,España,UEFA,Jugador 5,Jugador
+ESP_07,España,UEFA,Jugador 6,Jugador
+ESP_08,España,UEFA,Jugador 7,Jugador
+ESP_09,España,UEFA,Jugador 8,Jugador
+ESP_10,España,UEFA,Jugador 9,Jugador
+ESP_11,España,UEFA,Jugador 10,Jugador
+ESP_12,España,UEFA,Jugador 11,Jugador
+ESP_13,España,UEFA,Jugador 12,Jugador
+ESP_14,España,UEFA,Jugador 13,Jugador
+ESP_15,España,UEFA,Jugador 14,Jugador
+ESP_16,España,UEFA,Jugador 15,Jugador
+ESP_17,España,UEFA,Jugador 16,Jugador
+ESP_18,España,UEFA,Jugador 17,Jugador
+ESP_19,España,UEFA,Jugador 18,Jugador
+ESP_20,España,UEFA,Foto de Equipo,Especial
+FRA_01,Francia,UEFA,Escudo Selección,Especial
+FRA_02,Francia,UEFA,Jugador 1,Jugador
+FRA_03,Francia,UEFA,Jugador 2,Jugador
+FRA_04,Francia,UEFA,Jugador 3,Jugador
+FRA_05,Francia,UEFA,Jugador 4,Jugador
+FRA_06,Francia,UEFA,Jugador 5,Jugador
+FRA_07,Francia,UEFA,Jugador 6,Jugador
+FRA_08,Francia,UEFA,Jugador 7,Jugador
+FRA_09,Francia,UEFA,Jugador 8,Jugador
+FRA_10,Francia,UEFA,Jugador 9,Jugador
+FRA_11,Francia,UEFA,Jugador 10,Jugador
+FRA_12,Francia,UEFA,Jugador 11,Jugador
+FRA_13,Francia,UEFA,Jugador 12,Jugador
+FRA_14,Francia,UEFA,Jugador 13,Jugador
+FRA_15,Francia,UEFA,Jugador 14,Jugador
+FRA_16,Francia,UEFA,Jugador 15,Jugador
+FRA_17,Francia,UEFA,Jugador 16,Jugador
+FRA_18,Francia,UEFA,Jugador 17,Jugador
+FRA_19,Francia,UEFA,Jugador 18,Jugador
+FRA_20,Francia,UEFA,Foto de Equipo,Especial
+ENG_01,Inglaterra,UEFA,Escudo Selección,Especial
+ENG_02,Inglaterra,UEFA,Jugador 1,Jugador
+ENG_03,Inglaterra,UEFA,Jugador 2,Jugador
+ENG_04,Inglaterra,UEFA,Jugador 3,Jugador
+ENG_05,Inglaterra,UEFA,Jugador 4,Jugador
+ENG_06,Inglaterra,UEFA,Jugador 5,Jugador
+ENG_07,Inglaterra,UEFA,Jugador 6,Jugador
+ENG_08,Inglaterra,UEFA,Jugador 7,Jugador
+ENG_09,Inglaterra,UEFA,Jugador 8,Jugador
+ENG_10,Inglaterra,UEFA,Jugador 9,Jugador
+ENG_11,Inglaterra,UEFA,Jugador 10,Jugador
+ENG_12,Inglaterra,UEFA,Jugador 11,Jugador
+ENG_13,Inglaterra,UEFA,Jugador 12,Jugador
+ENG_14,Inglaterra,UEFA,Jugador 13,Jugador
+ENG_15,Inglaterra,UEFA,Jugador 14,Jugador
+ENG_16,Inglaterra,UEFA,Jugador 15,Jugador
+ENG_17,Inglaterra,UEFA,Jugador 16,Jugador
+ENG_18,Inglaterra,UEFA,Jugador 17,Jugador
+ENG_19,Inglaterra,UEFA,Jugador 18,Jugador
+ENG_20,Inglaterra,UEFA,Foto de Equipo,Especial
+GER_01,Alemania,UEFA,Escudo Selección,Especial
+GER_02,Alemania,UEFA,Jugador 1,Jugador
+GER_03,Alemania,UEFA,Jugador 2,Jugador
+GER_04,Alemania,UEFA,Jugador 3,Jugador
+GER_05,Alemania,UEFA,Jugador 4,Jugador
+GER_06,Alemania,UEFA,Jugador 5,Jugador
+GER_07,Alemania,UEFA,Jugador 6,Jugador
+GER_08,Alemania,UEFA,Jugador 7,Jugador
+GER_09,Alemania,UEFA,Jugador 8,Jugador
+GER_10,Alemania,UEFA,Jugador 9,Jugador
+GER_11,Alemania,UEFA,Jugador 10,Jugador
+GER_12,Alemania,UEFA,Jugador 11,Jugador
+GER_13,Alemania,UEFA,Jugador 12,Jugador
+GER_14,Alemania,UEFA,Jugador 13,Jugador
+GER_15,Alemania,UEFA,Jugador 14,Jugador
+GER_16,Alemania,UEFA,Jugador 15,Jugador
+GER_17,Alemania,UEFA,Jugador 16,Jugador
+GER_18,Alemania,UEFA,Jugador 17,Jugador
+GER_19,Alemania,UEFA,Jugador 18,Jugador
+GER_20,Alemania,UEFA,Foto de Equipo,Especial
+ITA_01,Italia,UEFA,Escudo Selección,Especial
+ITA_02,Italia,UEFA,Jugador 1,Jugador
+ITA_03,Italia,UEFA,Jugador 2,Jugador
+ITA_04,Italia,UEFA,Jugador 3,Jugador
+ITA_05,Italia,UEFA,Jugador 4,Jugador
+ITA_06,Italia,UEFA,Jugador 5,Jugador
+ITA_07,Italia,UEFA,Jugador 6,Jugador
+ITA_08,Italia,UEFA,Jugador 7,Jugador
+ITA_09,Italia,UEFA,Jugador 8,Jugador
+ITA_10,Italia,UEFA,Jugador 9,Jugador
+ITA_11,Italia,UEFA,Jugador 10,Jugador
+ITA_12,Italia,UEFA,Jugador 11,Jugador
+ITA_13,Italia,UEFA,Jugador 12,Jugador
+ITA_14,Italia,UEFA,Jugador 13,Jugador
+ITA_15,Italia,UEFA,Jugador 14,Jugador
+ITA_16,Italia,UEFA,Jugador 15,Jugador
+ITA_17,Italia,UEFA,Jugador 16,Jugador
+ITA_18,Italia,UEFA,Jugador 17,Jugador
+ITA_19,Italia,UEFA,Jugador 18,Jugador
+ITA_20,Italia,UEFA,Foto de Equipo,Especial
+POR_01,Portugal,UEFA,Escudo Selección,Especial
+POR_02,Portugal,UEFA,Jugador 1,Jugador
+POR_03,Portugal,UEFA,Jugador 2,Jugador
+POR_04,Portugal,UEFA,Jugador 3,Jugador
+POR_05,Portugal,UEFA,Jugador 4,Jugador
+POR_06,Portugal,UEFA,Jugador 5,Jugador
+POR_07,Portugal,UEFA,Jugador 6,Jugador
+POR_08,Portugal,UEFA,Jugador 7,Jugador
+POR_09,Portugal,UEFA,Jugador 8,Jugador
+POR_10,Portugal,UEFA,Jugador 9,Jugador
+POR_11,Portugal,UEFA,Jugador 10,Jugador
+POR_12,Portugal,UEFA,Jugador 11,Jugador
+POR_13,Portugal,UEFA,Jugador 12,Jugador
+POR_14,Portugal,UEFA,Jugador 13,Jugador
+POR_15,Portugal,UEFA,Jugador 14,Jugador
+POR_16,Portugal,UEFA,Jugador 15,Jugador
+POR_17,Portugal,UEFA,Jugador 16,Jugador
+POR_18,Portugal,UEFA,Jugador 17,Jugador
+POR_19,Portugal,UEFA,Jugador 18,Jugador
+POR_20,Portugal,UEFA,Foto de Equipo,Especial
+NED_01,Países Bajos,UEFA,Escudo Selección,Especial
+NED_02,Países Bajos,UEFA,Jugador 1,Jugador
+NED_03,Países Bajos,UEFA,Jugador 2,Jugador
+NED_04,Países Bajos,UEFA,Jugador 3,Jugador
+NED_05,Países Bajos,UEFA,Jugador 4,Jugador
+NED_06,Países Bajos,UEFA,Jugador 5,Jugador
+NED_07,Países Bajos,UEFA,Jugador 6,Jugador
+NED_08,Países Bajos,UEFA,Jugador 7,Jugador
+NED_09,Países Bajos,UEFA,Jugador 8,Jugador
+NED_10,Países Bajos,UEFA,Jugador 9,Jugador
+NED_11,Países Bajos,UEFA,Jugador 10,Jugador
+NED_12,Países Bajos,UEFA,Jugador 11,Jugador
+NED_13,Países Bajos,UEFA,Jugador 12,Jugador
+NED_14,Países Bajos,UEFA,Jugador 13,Jugador
+NED_15,Países Bajos,UEFA,Jugador 14,Jugador
+NED_16,Países Bajos,UEFA,Jugador 15,Jugador
+NED_17,Países Bajos,UEFA,Jugador 16,Jugador
+NED_18,Países Bajos,UEFA,Jugador 17,Jugador
+NED_19,Países Bajos,UEFA,Jugador 18,Jugador
+NED_20,Países Bajos,UEFA,Foto de Equipo,Especial
+BEL_01,Bélgica,UEFA,Escudo Selección,Especial
+BEL_02,Bélgica,UEFA,Jugador 1,Jugador
+BEL_03,Bélgica,UEFA,Jugador 2,Jugador
+BEL_04,Bélgica,UEFA,Jugador 3,Jugador
+BEL_05,Bélgica,UEFA,Jugador 4,Jugador
+BEL_06,Bélgica,UEFA,Jugador 5,Jugador
+BEL_07,Bélgica,UEFA,Jugador 6,Jugador
+BEL_08,Bélgica,UEFA,Jugador 7,Jugador
+BEL_09,Bélgica,UEFA,Jugador 8,Jugador
+BEL_10,Bélgica,UEFA,Jugador 9,Jugador
+BEL_11,Bélgica,UEFA,Jugador 10,Jugador
+BEL_12,Bélgica,UEFA,Jugador 11,Jugador
+BEL_13,Bélgica,UEFA,Jugador 12,Jugador
+BEL_14,Bélgica,UEFA,Jugador 13,Jugador
+BEL_15,Bélgica,UEFA,Jugador 14,Jugador
+BEL_16,Bélgica,UEFA,Jugador 15,Jugador
+BEL_17,Bélgica,UEFA,Jugador 16,Jugador
+BEL_18,Bélgica,UEFA,Jugador 17,Jugador
+BEL_19,Bélgica,UEFA,Jugador 18,Jugador
+BEL_20,Bélgica,UEFA,Foto de Equipo,Especial
+CRO_01,Croacia,UEFA,Escudo Selección,Especial
+CRO_02,Croacia,UEFA,Jugador 1,Jugador
+CRO_03,Croacia,UEFA,Jugador 2,Jugador
+CRO_04,Croacia,UEFA,Jugador 3,Jugador
+CRO_05,Croacia,UEFA,Jugador 4,Jugador
+CRO_06,Croacia,UEFA,Jugador 5,Jugador
+CRO_07,Croacia,UEFA,Jugador 6,Jugador
+CRO_08,Croacia,UEFA,Jugador 7,Jugador
+CRO_09,Croacia,UEFA,Jugador 8,Jugador
+CRO_10,Croacia,UEFA,Jugador 9,Jugador
+CRO_11,Croacia,UEFA,Jugador 10,Jugador
+CRO_12,Croacia,UEFA,Jugador 11,Jugador
+CRO_13,Croacia,UEFA,Jugador 12,Jugador
+CRO_14,Croacia,UEFA,Jugador 13,Jugador
+CRO_15,Croacia,UEFA,Jugador 14,Jugador
+CRO_16,Croacia,UEFA,Jugador 15,Jugador
+CRO_17,Croacia,UEFA,Jugador 16,Jugador
+CRO_18,Croacia,UEFA,Jugador 17,Jugador
+CRO_19,Croacia,UEFA,Jugador 18,Jugador
+CRO_20,Croacia,UEFA,Foto de Equipo,Especial
+SUI_01,Suiza,UEFA,Escudo Selección,Especial
+SUI_02,Suiza,UEFA,Jugador 1,Jugador
+SUI_03,Suiza,UEFA,Jugador 2,Jugador
+SUI_04,Suiza,UEFA,Jugador 3,Jugador
+SUI_05,Suiza,UEFA,Jugador 4,Jugador
+SUI_06,Suiza,UEFA,Jugador 5,Jugador
+SUI_07,Suiza,UEFA,Jugador 6,Jugador
+SUI_08,Suiza,UEFA,Jugador 7,Jugador
+SUI_09,Suiza,UEFA,Jugador 8,Jugador
+SUI_10,Suiza,UEFA,Jugador 9,Jugador
+SUI_11,Suiza,UEFA,Jugador 10,Jugador
+SUI_12,Suiza,UEFA,Jugador 11,Jugador
+SUI_13,Suiza,UEFA,Jugador 12,Jugador
+SUI_14,Suiza,UEFA,Jugador 13,Jugador
+SUI_15,Suiza,UEFA,Jugador 14,Jugador
+SUI_16,Suiza,UEFA,Jugador 15,Jugador
+SUI_17,Suiza,UEFA,Jugador 16,Jugador
+SUI_18,Suiza,UEFA,Jugador 17,Jugador
+SUI_19,Suiza,UEFA,Jugador 18,Jugador
+SUI_20,Suiza,UEFA,Foto de Equipo,Especial
+DEN_01,Dinamarca,UEFA,Escudo Selección,Especial
+DEN_02,Dinamarca,UEFA,Jugador 1,Jugador
+DEN_03,Dinamarca,UEFA,Jugador 2,Jugador
+DEN_04,Dinamarca,UEFA,Jugador 3,Jugador
+DEN_05,Dinamarca,UEFA,Jugador 4,Jugador
+DEN_06,Dinamarca,UEFA,Jugador 5,Jugador
+DEN_07,Dinamarca,UEFA,Jugador 6,Jugador
+DEN_08,Dinamarca,UEFA,Jugador 7,Jugador
+DEN_09,Dinamarca,UEFA,Jugador 8,Jugador
+DEN_10,Dinamarca,UEFA,Jugador 9,Jugador
+DEN_11,Dinamarca,UEFA,Jugador 10,Jugador
+DEN_12,Dinamarca,UEFA,Jugador 11,Jugador
+DEN_13,Dinamarca,UEFA,Jugador 12,Jugador
+DEN_14,Dinamarca,UEFA,Jugador 13,Jugador
+DEN_15,Dinamarca,UEFA,Jugador 14,Jugador
+DEN_16,Dinamarca,UEFA,Jugador 15,Jugador
+DEN_17,Dinamarca,UEFA,Jugador 16,Jugador
+DEN_18,Dinamarca,UEFA,Jugador 17,Jugador
+DEN_19,Dinamarca,UEFA,Jugador 18,Jugador
+DEN_20,Dinamarca,UEFA,Foto de Equipo,Especial
+TUR_01,Turquía,UEFA,Escudo Selección,Especial
+TUR_02,Turquía,UEFA,Jugador 1,Jugador
+TUR_03,Turquía,UEFA,Jugador 2,Jugador
+TUR_04,Turquía,UEFA,Jugador 3,Jugador
+TUR_05,Turquía,UEFA,Jugador 4,Jugador
+TUR_06,Turquía,UEFA,Jugador 5,Jugador
+TUR_07,Turquía,UEFA,Jugador 6,Jugador
+TUR_08,Turquía,UEFA,Jugador 7,Jugador
+TUR_09,Turquía,UEFA,Jugador 8,Jugador
+TUR_10,Turquía,UEFA,Jugador 9,Jugador
+TUR_11,Turquía,UEFA,Jugador 10,Jugador
+TUR_12,Turquía,UEFA,Jugador 11,Jugador
+TUR_13,Turquía,UEFA,Jugador 12,Jugador
+TUR_14,Turquía,UEFA,Jugador 13,Jugador
+TUR_15,Turquía,UEFA,Jugador 14,Jugador
+TUR_16,Turquía,UEFA,Jugador 15,Jugador
+TUR_17,Turquía,UEFA,Jugador 16,Jugador
+TUR_18,Turquía,UEFA,Jugador 17,Jugador
+TUR_19,Turquía,UEFA,Jugador 18,Jugador
+TUR_20,Turquía,UEFA,Foto de Equipo,Especial
+AUT_01,Austria,UEFA,Escudo Selección,Especial
+AUT_02,Austria,UEFA,Jugador 1,Jugador
+AUT_03,Austria,UEFA,Jugador 2,Jugador
+AUT_04,Austria,UEFA,Jugador 3,Jugador
+AUT_05,Austria,UEFA,Jugador 4,Jugador
+AUT_06,Austria,UEFA,Jugador 5,Jugador
+AUT_07,Austria,UEFA,Jugador 6,Jugador
+AUT_08,Austria,UEFA,Jugador 7,Jugador
+AUT_09,Austria,UEFA,Jugador 8,Jugador
+AUT_10,Austria,UEFA,Jugador 9,Jugador
+AUT_11,Austria,UEFA,Jugador 10,Jugador
+AUT_12,Austria,UEFA,Jugador 11,Jugador
+AUT_13,Austria,UEFA,Jugador 12,Jugador
+AUT_14,Austria,UEFA,Jugador 13,Jugador
+AUT_15,Austria,UEFA,Jugador 14,Jugador
+AUT_16,Austria,UEFA,Jugador 15,Jugador
+AUT_17,Austria,UEFA,Jugador 16,Jugador
+AUT_18,Austria,UEFA,Jugador 17,Jugador
+AUT_19,Austria,UEFA,Jugador 18,Jugador
+AUT_20,Austria,UEFA,Foto de Equipo,Especial
+SCO_01,Escocia,UEFA,Escudo Selección,Especial
+SCO_02,Escocia,UEFA,Jugador 1,Jugador
+SCO_03,Escocia,UEFA,Jugador 2,Jugador
+SCO_04,Escocia,UEFA,Jugador 3,Jugador
+SCO_05,Escocia,UEFA,Jugador 4,Jugador
+SCO_06,Escocia,UEFA,Jugador 5,Jugador
+SCO_07,Escocia,UEFA,Jugador 6,Jugador
+SCO_08,Escocia,UEFA,Jugador 7,Jugador
+SCO_09,Escocia,UEFA,Jugador 8,Jugador
+SCO_10,Escocia,UEFA,Jugador 9,Jugador
+SCO_11,Escocia,UEFA,Jugador 10,Jugador
+SCO_12,Escocia,UEFA,Jugador 11,Jugador
+SCO_13,Escocia,UEFA,Jugador 12,Jugador
+SCO_14,Escocia,UEFA,Jugador 13,Jugador
+SCO_15,Escocia,UEFA,Jugador 14,Jugador
+SCO_16,Escocia,UEFA,Jugador 15,Jugador
+SCO_17,Escocia,UEFA,Jugador 16,Jugador
+SCO_18,Escocia,UEFA,Jugador 17,Jugador
+SCO_19,Escocia,UEFA,Jugador 18,Jugador
+SCO_20,Escocia,UEFA,Foto de Equipo,Especial
+SRB_01,Serbia,UEFA,Escudo Selección,Especial
+SRB_02,Serbia,UEFA,Jugador 1,Jugador
+SRB_03,Serbia,UEFA,Jugador 2,Jugador
+SRB_04,Serbia,UEFA,Jugador 3,Jugador
+SRB_05,Serbia,UEFA,Jugador 4,Jugador
+SRB_06,Serbia,UEFA,Jugador 5,Jugador
+SRB_07,Serbia,UEFA,Jugador 6,Jugador
+SRB_08,Serbia,UEFA,Jugador 7,Jugador
+SRB_09,Serbia,UEFA,Jugador 8,Jugador
+SRB_10,Serbia,UEFA,Jugador 9,Jugador
+SRB_11,Serbia,UEFA,Jugador 10,Jugador
+SRB_12,Serbia,UEFA,Jugador 11,Jugador
+SRB_13,Serbia,UEFA,Jugador 12,Jugador
+SRB_14,Serbia,UEFA,Jugador 13,Jugador
+SRB_15,Serbia,UEFA,Jugador 14,Jugador
+SRB_16,Serbia,UEFA,Jugador 15,Jugador
+SRB_17,Serbia,UEFA,Jugador 16,Jugador
+SRB_18,Serbia,UEFA,Jugador 17,Jugador
+SRB_19,Serbia,UEFA,Jugador 18,Jugador
+SRB_20,Serbia,UEFA,Foto de Equipo,Especial
+HUN_01,Hungría,UEFA,Escudo Selección,Especial
+HUN_02,Hungría,UEFA,Jugador 1,Jugador
+HUN_03,Hungría,UEFA,Jugador 2,Jugador
+HUN_04,Hungría,UEFA,Jugador 3,Jugador
+HUN_05,Hungría,UEFA,Jugador 4,Jugador
+HUN_06,Hungría,UEFA,Jugador 5,Jugador
+HUN_07,Hungría,UEFA,Jugador 6,Jugador
+HUN_08,Hungría,UEFA,Jugador 7,Jugador
+HUN_09,Hungría,UEFA,Jugador 8,Jugador
+HUN_10,Hungría,UEFA,Jugador 9,Jugador
+HUN_11,Hungría,UEFA,Jugador 10,Jugador
+HUN_12,Hungría,UEFA,Jugador 11,Jugador
+HUN_13,Hungría,UEFA,Jugador 12,Jugador
+HUN_14,Hungría,UEFA,Jugador 13,Jugador
+HUN_15,Hungría,UEFA,Jugador 14,Jugador
+HUN_16,Hungría,UEFA,Jugador 15,Jugador
+HUN_17,Hungría,UEFA,Jugador 16,Jugador
+HUN_18,Hungría,UEFA,Jugador 17,Jugador
+HUN_19,Hungría,UEFA,Jugador 18,Jugador
+HUN_20,Hungría,UEFA,Foto de Equipo,Especial
+MAR_01,Marruecos,CAF,Escudo Selección,Especial
+MAR_02,Marruecos,CAF,Jugador 1,Jugador
+MAR_03,Marruecos,CAF,Jugador 2,Jugador
+MAR_04,Marruecos,CAF,Jugador 3,Jugador
+MAR_05,Marruecos,CAF,Jugador 4,Jugador
+MAR_06,Marruecos,CAF,Jugador 5,Jugador
+MAR_07,Marruecos,CAF,Jugador 6,Jugador
+MAR_08,Marruecos,CAF,Jugador 7,Jugador
+MAR_09,Marruecos,CAF,Jugador 8,Jugador
+MAR_10,Marruecos,CAF,Jugador 9,Jugador
+MAR_11,Marruecos,CAF,Jugador 10,Jugador
+MAR_12,Marruecos,CAF,Jugador 11,Jugador
+MAR_13,Marruecos,CAF,Jugador 12,Jugador
+MAR_14,Marruecos,CAF,Jugador 13,Jugador
+MAR_15,Marruecos,CAF,Jugador 14,Jugador
+MAR_16,Marruecos,CAF,Jugador 15,Jugador
+MAR_17,Marruecos,CAF,Jugador 16,Jugador
+MAR_18,Marruecos,CAF,Jugador 17,Jugador
+MAR_19,Marruecos,CAF,Jugador 18,Jugador
+MAR_20,Marruecos,CAF,Foto de Equipo,Especial
+SEN_01,Senegal,CAF,Escudo Selección,Especial
+SEN_02,Senegal,CAF,Jugador 1,Jugador
+SEN_03,Senegal,CAF,Jugador 2,Jugador
+SEN_04,Senegal,CAF,Jugador 3,Jugador
+SEN_05,Senegal,CAF,Jugador 4,Jugador
+SEN_06,Senegal,CAF,Jugador 5,Jugador
+SEN_07,Senegal,CAF,Jugador 6,Jugador
+SEN_08,Senegal,CAF,Jugador 7,Jugador
+SEN_09,Senegal,CAF,Jugador 8,Jugador
+SEN_10,Senegal,CAF,Jugador 9,Jugador
+SEN_11,Senegal,CAF,Jugador 10,Jugador
+SEN_12,Senegal,CAF,Jugador 11,Jugador
+SEN_13,Senegal,CAF,Jugador 12,Jugador
+SEN_14,Senegal,CAF,Jugador 13,Jugador
+SEN_15,Senegal,CAF,Jugador 14,Jugador
+SEN_16,Senegal,CAF,Jugador 15,Jugador
+SEN_17,Senegal,CAF,Jugador 16,Jugador
+SEN_18,Senegal,CAF,Jugador 17,Jugador
+SEN_19,Senegal,CAF,Jugador 18,Jugador
+SEN_20,Senegal,CAF,Foto de Equipo,Especial
+NGA_01,Nigeria,CAF,Escudo Selección,Especial
+NGA_02,Nigeria,CAF,Jugador 1,Jugador
+NGA_03,Nigeria,CAF,Jugador 2,Jugador
+NGA_04,Nigeria,CAF,Jugador 3,Jugador
+NGA_05,Nigeria,CAF,Jugador 4,Jugador
+NGA_06,Nigeria,CAF,Jugador 5,Jugador
+NGA_07,Nigeria,CAF,Jugador 6,Jugador
+NGA_08,Nigeria,CAF,Jugador 7,Jugador
+NGA_09,Nigeria,CAF,Jugador 8,Jugador
+NGA_10,Nigeria,CAF,Jugador 9,Jugador
+NGA_11,Nigeria,CAF,Jugador 10,Jugador
+NGA_12,Nigeria,CAF,Jugador 11,Jugador
+NGA_13,Nigeria,CAF,Jugador 12,Jugador
+NGA_14,Nigeria,CAF,Jugador 13,Jugador
+NGA_15,Nigeria,CAF,Jugador 14,Jugador
+NGA_16,Nigeria,CAF,Jugador 15,Jugador
+NGA_17,Nigeria,CAF,Jugador 16,Jugador
+NGA_18,Nigeria,CAF,Jugador 17,Jugador
+NGA_19,Nigeria,CAF,Jugador 18,Jugador
+NGA_20,Nigeria,CAF,Foto de Equipo,Especial
+EGY_01,Egipto,CAF,Escudo Selección,Especial
+EGY_02,Egipto,CAF,Jugador 1,Jugador
+EGY_03,Egipto,CAF,Jugador 2,Jugador
+EGY_04,Egipto,CAF,Jugador 3,Jugador
+EGY_05,Egipto,CAF,Jugador 4,Jugador
+EGY_06,Egipto,CAF,Jugador 5,Jugador
+EGY_07,Egipto,CAF,Jugador 6,Jugador
+EGY_08,Egipto,CAF,Jugador 7,Jugador
+EGY_09,Egipto,CAF,Jugador 8,Jugador
+EGY_10,Egipto,CAF,Jugador 9,Jugador
+EGY_11,Egipto,CAF,Jugador 10,Jugador
+EGY_12,Egipto,CAF,Jugador 11,Jugador
+EGY_13,Egipto,CAF,Jugador 12,Jugador
+EGY_14,Egipto,CAF,Jugador 13,Jugador
+EGY_15,Egipto,CAF,Jugador 14,Jugador
+EGY_16,Egipto,CAF,Jugador 15,Jugador
+EGY_17,Egipto,CAF,Jugador 16,Jugador
+EGY_18,Egipto,CAF,Jugador 17,Jugador
+EGY_19,Egipto,CAF,Jugador 18,Jugador
+EGY_20,Egipto,CAF,Foto de Equipo,Especial
+CIV_01,Costa de Marfil,CAF,Escudo Selección,Especial
+CIV_02,Costa de Marfil,CAF,Jugador 1,Jugador
+CIV_03,Costa de Marfil,CAF,Jugador 2,Jugador
+CIV_04,Costa de Marfil,CAF,Jugador 3,Jugador
+CIV_05,Costa de Marfil,CAF,Jugador 4,Jugador
+CIV_06,Costa de Marfil,CAF,Jugador 5,Jugador
+CIV_07,Costa de Marfil,CAF,Jugador 6,Jugador
+CIV_08,Costa de Marfil,CAF,Jugador 7,Jugador
+CIV_09,Costa de Marfil,CAF,Jugador 8,Jugador
+CIV_10,Costa de Marfil,CAF,Jugador 9,Jugador
+CIV_11,Costa de Marfil,CAF,Jugador 10,Jugador
+CIV_12,Costa de Marfil,CAF,Jugador 11,Jugador
+CIV_13,Costa de Marfil,CAF,Jugador 12,Jugador
+CIV_14,Costa de Marfil,CAF,Jugador 13,Jugador
+CIV_15,Costa de Marfil,CAF,Jugador 14,Jugador
+CIV_16,Costa de Marfil,CAF,Jugador 15,Jugador
+CIV_17,Costa de Marfil,CAF,Jugador 16,Jugador
+CIV_18,Costa de Marfil,CAF,Jugador 17,Jugador
+CIV_19,Costa de Marfil,CAF,Jugador 18,Jugador
+CIV_20,Costa de Marfil,CAF,Foto de Equipo,Especial
+TUN_01,Túnez,CAF,Escudo Selección,Especial
+TUN_02,Túnez,CAF,Jugador 1,Jugador
+TUN_03,Túnez,CAF,Jugador 2,Jugador
+TUN_04,Túnez,CAF,Jugador 3,Jugador
+TUN_05,Túnez,CAF,Jugador 4,Jugador
+TUN_06,Túnez,CAF,Jugador 5,Jugador
+TUN_07,Túnez,CAF,Jugador 6,Jugador
+TUN_08,Túnez,CAF,Jugador 7,Jugador
+TUN_09,Túnez,CAF,Jugador 8,Jugador
+TUN_10,Túnez,CAF,Jugador 9,Jugador
+TUN_11,Túnez,CAF,Jugador 10,Jugador
+TUN_12,Túnez,CAF,Jugador 11,Jugador
+TUN_13,Túnez,CAF,Jugador 12,Jugador
+TUN_14,Túnez,CAF,Jugador 13,Jugador
+TUN_15,Túnez,CAF,Jugador 14,Jugador
+TUN_16,Túnez,CAF,Jugador 15,Jugador
+TUN_17,Túnez,CAF,Jugador 16,Jugador
+TUN_18,Túnez,CAF,Jugador 17,Jugador
+TUN_19,Túnez,CAF,Jugador 18,Jugador
+TUN_20,Túnez,CAF,Foto de Equipo,Especial
+ALG_01,Argelia,CAF,Escudo Selección,Especial
+ALG_02,Argelia,CAF,Jugador 1,Jugador
+ALG_03,Argelia,CAF,Jugador 2,Jugador
+ALG_04,Argelia,CAF,Jugador 3,Jugador
+ALG_05,Argelia,CAF,Jugador 4,Jugador
+ALG_06,Argelia,CAF,Jugador 5,Jugador
+ALG_07,Argelia,CAF,Jugador 6,Jugador
+ALG_08,Argelia,CAF,Jugador 7,Jugador
+ALG_09,Argelia,CAF,Jugador 8,Jugador
+ALG_10,Argelia,CAF,Jugador 9,Jugador
+ALG_11,Argelia,CAF,Jugador 10,Jugador
+ALG_12,Argelia,CAF,Jugador 11,Jugador
+ALG_13,Argelia,CAF,Jugador 12,Jugador
+ALG_14,Argelia,CAF,Jugador 13,Jugador
+ALG_15,Argelia,CAF,Jugador 14,Jugador
+ALG_16,Argelia,CAF,Jugador 15,Jugador
+ALG_17,Argelia,CAF,Jugador 16,Jugador
+ALG_18,Argelia,CAF,Jugador 17,Jugador
+ALG_19,Argelia,CAF,Jugador 18,Jugador
+ALG_20,Argelia,CAF,Foto de Equipo,Especial
+CMR_01,Camerún,CAF,Escudo Selección,Especial
+CMR_02,Camerún,CAF,Jugador 1,Jugador
+CMR_03,Camerún,CAF,Jugador 2,Jugador
+CMR_04,Camerún,CAF,Jugador 3,Jugador
+CMR_05,Camerún,CAF,Jugador 4,Jugador
+CMR_06,Camerún,CAF,Jugador 5,Jugador
+CMR_07,Camerún,CAF,Jugador 6,Jugador
+CMR_08,Camerún,CAF,Jugador 7,Jugador
+CMR_09,Camerún,CAF,Jugador 8,Jugador
+CMR_10,Camerún,CAF,Jugador 9,Jugador
+CMR_11,Camerún,CAF,Jugador 10,Jugador
+CMR_12,Camerún,CAF,Jugador 11,Jugador
+CMR_13,Camerún,CAF,Jugador 12,Jugador
+CMR_14,Camerún,CAF,Jugador 13,Jugador
+CMR_15,Camerún,CAF,Jugador 14,Jugador
+CMR_16,Camerún,CAF,Jugador 15,Jugador
+CMR_17,Camerún,CAF,Jugador 16,Jugador
+CMR_18,Camerún,CAF,Jugador 17,Jugador
+CMR_19,Camerún,CAF,Jugador 18,Jugador
+CMR_20,Camerún,CAF,Foto de Equipo,Especial
+MLI_01,Mali,CAF,Escudo Selección,Especial
+MLI_02,Mali,CAF,Jugador 1,Jugador
+MLI_03,Mali,CAF,Jugador 2,Jugador
+MLI_04,Mali,CAF,Jugador 3,Jugador
+MLI_05,Mali,CAF,Jugador 4,Jugador
+MLI_06,Mali,CAF,Jugador 5,Jugador
+MLI_07,Mali,CAF,Jugador 6,Jugador
+MLI_08,Mali,CAF,Jugador 7,Jugador
+MLI_09,Mali,CAF,Jugador 8,Jugador
+MLI_10,Mali,CAF,Jugador 9,Jugador
+MLI_11,Mali,CAF,Jugador 10,Jugador
+MLI_12,Mali,CAF,Jugador 11,Jugador
+MLI_13,Mali,CAF,Jugador 12,Jugador
+MLI_14,Mali,CAF,Jugador 13,Jugador
+MLI_15,Mali,CAF,Jugador 14,Jugador
+MLI_16,Mali,CAF,Jugador 15,Jugador
+MLI_17,Mali,CAF,Jugador 16,Jugador
+MLI_18,Mali,CAF,Jugador 17,Jugador
+MLI_19,Mali,CAF,Jugador 18,Jugador
+MLI_20,Mali,CAF,Foto de Equipo,Especial
+JPN_01,Japón,AFC,Escudo Selección,Especial
+JPN_02,Japón,AFC,Jugador 1,Jugador
+JPN_03,Japón,AFC,Jugador 2,Jugador
+JPN_04,Japón,AFC,Jugador 3,Jugador
+JPN_05,Japón,AFC,Jugador 4,Jugador
+JPN_06,Japón,AFC,Jugador 5,Jugador
+JPN_07,Japón,AFC,Jugador 6,Jugador
+JPN_08,Japón,AFC,Jugador 7,Jugador
+JPN_09,Japón,AFC,Jugador 8,Jugador
+JPN_10,Japón,AFC,Jugador 9,Jugador
+JPN_11,Japón,AFC,Jugador 10,Jugador
+JPN_12,Japón,AFC,Jugador 11,Jugador
+JPN_13,Japón,AFC,Jugador 12,Jugador
+JPN_14,Japón,AFC,Jugador 13,Jugador
+JPN_15,Japón,AFC,Jugador 14,Jugador
+JPN_16,Japón,AFC,Jugador 15,Jugador
+JPN_17,Japón,AFC,Jugador 16,Jugador
+JPN_18,Japón,AFC,Jugador 17,Jugador
+JPN_19,Japón,AFC,Jugador 18,Jugador
+JPN_20,Japón,AFC,Foto de Equipo,Especial
+KOR_01,Corea del Sur,AFC,Escudo Selección,Especial
+KOR_02,Corea del Sur,AFC,Jugador 1,Jugador
+KOR_03,Corea del Sur,AFC,Jugador 2,Jugador
+KOR_04,Corea del Sur,AFC,Jugador 3,Jugador
+KOR_05,Corea del Sur,AFC,Jugador 4,Jugador
+KOR_06,Corea del Sur,AFC,Jugador 5,Jugador
+KOR_07,Corea del Sur,AFC,Jugador 6,Jugador
+KOR_08,Corea del Sur,AFC,Jugador 7,Jugador
+KOR_09,Corea del Sur,AFC,Jugador 8,Jugador
+KOR_10,Corea del Sur,AFC,Jugador 9,Jugador
+KOR_11,Corea del Sur,AFC,Jugador 10,Jugador
+KOR_12,Corea del Sur,AFC,Jugador 11,Jugador
+KOR_13,Corea del Sur,AFC,Jugador 12,Jugador
+KOR_14,Corea del Sur,AFC,Jugador 13,Jugador
+KOR_15,Corea del Sur,AFC,Jugador 14,Jugador
+KOR_16,Corea del Sur,AFC,Jugador 15,Jugador
+KOR_17,Corea del Sur,AFC,Jugador 16,Jugador
+KOR_18,Corea del Sur,AFC,Jugador 17,Jugador
+KOR_19,Corea del Sur,AFC,Jugador 18,Jugador
+KOR_20,Corea del Sur,AFC,Foto de Equipo,Especial
+IRN_01,Irán,AFC,Escudo Selección,Especial
+IRN_02,Irán,AFC,Jugador 1,Jugador
+IRN_03,Irán,AFC,Jugador 2,Jugador
+IRN_04,Irán,AFC,Jugador 3,Jugador
+IRN_05,Irán,AFC,Jugador 4,Jugador
+IRN_06,Irán,AFC,Jugador 5,Jugador
+IRN_07,Irán,AFC,Jugador 6,Jugador
+IRN_08,Irán,AFC,Jugador 7,Jugador
+IRN_09,Irán,AFC,Jugador 8,Jugador
+IRN_10,Irán,AFC,Jugador 9,Jugador
+IRN_11,Irán,AFC,Jugador 10,Jugador
+IRN_12,Irán,AFC,Jugador 11,Jugador
+IRN_13,Irán,AFC,Jugador 12,Jugador
+IRN_14,Irán,AFC,Jugador 13,Jugador
+IRN_15,Irán,AFC,Jugador 14,Jugador
+IRN_16,Irán,AFC,Jugador 15,Jugador
+IRN_17,Irán,AFC,Jugador 16,Jugador
+IRN_18,Irán,AFC,Jugador 17,Jugador
+IRN_19,Irán,AFC,Jugador 18,Jugador
+IRN_20,Irán,AFC,Foto de Equipo,Especial
+AUS_01,Australia,AFC,Escudo Selección,Especial
+AUS_02,Australia,AFC,Jugador 1,Jugador
+AUS_03,Australia,AFC,Jugador 2,Jugador
+AUS_04,Australia,AFC,Jugador 3,Jugador
+AUS_05,Australia,AFC,Jugador 4,Jugador
+AUS_06,Australia,AFC,Jugador 5,Jugador
+AUS_07,Australia,AFC,Jugador 6,Jugador
+AUS_08,Australia,AFC,Jugador 7,Jugador
+AUS_09,Australia,AFC,Jugador 8,Jugador
+AUS_10,Australia,AFC,Jugador 9,Jugador
+AUS_11,Australia,AFC,Jugador 10,Jugador
+AUS_12,Australia,AFC,Jugador 11,Jugador
+AUS_13,Australia,AFC,Jugador 12,Jugador
+AUS_14,Australia,AFC,Jugador 13,Jugador
+AUS_15,Australia,AFC,Jugador 14,Jugador
+AUS_16,Australia,AFC,Jugador 15,Jugador
+AUS_17,Australia,AFC,Jugador 16,Jugador
+AUS_18,Australia,AFC,Jugador 17,Jugador
+AUS_19,Australia,AFC,Jugador 18,Jugador
+AUS_20,Australia,AFC,Foto de Equipo,Especial
+KSA_01,Arabia Saudita,AFC,Escudo Selección,Especial
+KSA_02,Arabia Saudita,AFC,Jugador 1,Jugador
+KSA_03,Arabia Saudita,AFC,Jugador 2,Jugador
+KSA_04,Arabia Saudita,AFC,Jugador 3,Jugador
+KSA_05,Arabia Saudita,AFC,Jugador 4,Jugador
+KSA_06,Arabia Saudita,AFC,Jugador 5,Jugador
+KSA_07,Arabia Saudita,AFC,Jugador 6,Jugador
+KSA_08,Arabia Saudita,AFC,Jugador 7,Jugador
+KSA_09,Arabia Saudita,AFC,Jugador 8,Jugador
+KSA_10,Arabia Saudita,AFC,Jugador 9,Jugador
+KSA_11,Arabia Saudita,AFC,Jugador 10,Jugador
+KSA_12,Arabia Saudita,AFC,Jugador 11,Jugador
+KSA_13,Arabia Saudita,AFC,Jugador 12,Jugador
+KSA_14,Arabia Saudita,AFC,Jugador 13,Jugador
+KSA_15,Arabia Saudita,AFC,Jugador 14,Jugador
+KSA_16,Arabia Saudita,AFC,Jugador 15,Jugador
+KSA_17,Arabia Saudita,AFC,Jugador 16,Jugador
+KSA_18,Arabia Saudita,AFC,Jugador 17,Jugador
+KSA_19,Arabia Saudita,AFC,Jugador 18,Jugador
+KSA_20,Arabia Saudita,AFC,Foto de Equipo,Especial
+QAT_01,Qatar,AFC,Escudo Selección,Especial
+QAT_02,Qatar,AFC,Jugador 1,Jugador
+QAT_03,Qatar,AFC,Jugador 2,Jugador
+QAT_04,Qatar,AFC,Jugador 3,Jugador
+QAT_05,Qatar,AFC,Jugador 4,Jugador
+QAT_06,Qatar,AFC,Jugador 5,Jugador
+QAT_07,Qatar,AFC,Jugador 6,Jugador
+QAT_08,Qatar,AFC,Jugador 7,Jugador
+QAT_09,Qatar,AFC,Jugador 8,Jugador
+QAT_10,Qatar,AFC,Jugador 9,Jugador
+QAT_11,Qatar,AFC,Jugador 10,Jugador
+QAT_12,Qatar,AFC,Jugador 11,Jugador
+QAT_13,Qatar,AFC,Jugador 12,Jugador
+QAT_14,Qatar,AFC,Jugador 13,Jugador
+QAT_15,Qatar,AFC,Jugador 14,Jugador
+QAT_16,Qatar,AFC,Jugador 15,Jugador
+QAT_17,Qatar,AFC,Jugador 16,Jugador
+QAT_18,Qatar,AFC,Jugador 17,Jugador
+QAT_19,Qatar,AFC,Jugador 18,Jugador
+QAT_20,Qatar,AFC,Foto de Equipo,Especial
+IRQ_01,Irak,AFC,Escudo Selección,Especial
+IRQ_02,Irak,AFC,Jugador 1,Jugador
+IRQ_03,Irak,AFC,Jugador 2,Jugador
+IRQ_04,Irak,AFC,Jugador 3,Jugador
+IRQ_05,Irak,AFC,Jugador 4,Jugador
+IRQ_06,Irak,AFC,Jugador 5,Jugador
+IRQ_07,Irak,AFC,Jugador 6,Jugador
+IRQ_08,Irak,AFC,Jugador 7,Jugador
+IRQ_09,Irak,AFC,Jugador 8,Jugador
+IRQ_10,Irak,AFC,Jugador 9,Jugador
+IRQ_11,Irak,AFC,Jugador 10,Jugador
+IRQ_12,Irak,AFC,Jugador 11,Jugador
+IRQ_13,Irak,AFC,Jugador 12,Jugador
+IRQ_14,Irak,AFC,Jugador 13,Jugador
+IRQ_15,Irak,AFC,Jugador 14,Jugador
+IRQ_16,Irak,AFC,Jugador 15,Jugador
+IRQ_17,Irak,AFC,Jugador 16,Jugador
+IRQ_18,Irak,AFC,Jugador 17,Jugador
+IRQ_19,Irak,AFC,Jugador 18,Jugador
+IRQ_20,Irak,AFC,Foto de Equipo,Especial
+UZB_01,Uzbekistán,AFC,Escudo Selección,Especial
+UZB_02,Uzbekistán,AFC,Jugador 1,Jugador
+UZB_03,Uzbekistán,AFC,Jugador 2,Jugador
+UZB_04,Uzbekistán,AFC,Jugador 3,Jugador
+UZB_05,Uzbekistán,AFC,Jugador 4,Jugador
+UZB_06,Uzbekistán,AFC,Jugador 5,Jugador
+UZB_07,Uzbekistán,AFC,Jugador 6,Jugador
+UZB_08,Uzbekistán,AFC,Jugador 7,Jugador
+UZB_09,Uzbekistán,AFC,Jugador 8,Jugador
+UZB_10,Uzbekistán,AFC,Jugador 9,Jugador
+UZB_11,Uzbekistán,AFC,Jugador 10,Jugador
+UZB_12,Uzbekistán,AFC,Jugador 11,Jugador
+UZB_13,Uzbekistán,AFC,Jugador 12,Jugador
+UZB_14,Uzbekistán,AFC,Jugador 13,Jugador
+UZB_15,Uzbekistán,AFC,Jugador 14,Jugador
+UZB_16,Uzbekistán,AFC,Jugador 15,Jugador
+UZB_17,Uzbekistán,AFC,Jugador 16,Jugador
+UZB_18,Uzbekistán,AFC,Jugador 17,Jugador
+UZB_19,Uzbekistán,AFC,Jugador 18,Jugador
+UZB_20,Uzbekistán,AFC,Foto de Equipo,Especial
+NZL_01,Nueva Zelanda,OFC,Escudo Selección,Especial
+NZL_02,Nueva Zelanda,OFC,Jugador 1,Jugador
+NZL_03,Nueva Zelanda,OFC,Jugador 2,Jugador
+NZL_04,Nueva Zelanda,OFC,Jugador 3,Jugador
+NZL_05,Nueva Zelanda,OFC,Jugador 4,Jugador
+NZL_06,Nueva Zelanda,OFC,Jugador 5,Jugador
+NZL_07,Nueva Zelanda,OFC,Jugador 6,Jugador
+NZL_08,Nueva Zelanda,OFC,Jugador 7,Jugador
+NZL_09,Nueva Zelanda,OFC,Jugador 8,Jugador
+NZL_10,Nueva Zelanda,OFC,Jugador 9,Jugador
+NZL_11,Nueva Zelanda,OFC,Jugador 10,Jugador
+NZL_12,Nueva Zelanda,OFC,Jugador 11,Jugador
+NZL_13,Nueva Zelanda,OFC,Jugador 12,Jugador
+NZL_14,Nueva Zelanda,OFC,Jugador 13,Jugador
+NZL_15,Nueva Zelanda,OFC,Jugador 14,Jugador
+NZL_16,Nueva Zelanda,OFC,Jugador 15,Jugador
+NZL_17,Nueva Zelanda,OFC,Jugador 16,Jugador
+NZL_18,Nueva Zelanda,OFC,Jugador 17,Jugador
+NZL_19,Nueva Zelanda,OFC,Jugador 18,Jugador
+NZL_20,Nueva Zelanda,OFC,Foto de Equipo,Especial
+FIJ_01,Fiyi,OFC,Escudo Selección,Especial
+FIJ_02,Fiyi,OFC,Jugador 1,Jugador
+FIJ_03,Fiyi,OFC,Jugador 2,Jugador
+FIJ_04,Fiyi,OFC,Jugador 3,Jugador
+FIJ_05,Fiyi,OFC,Jugador 4,Jugador
+FIJ_06,Fiyi,OFC,Jugador 5,Jugador
+FIJ_07,Fiyi,OFC,Jugador 6,Jugador
+FIJ_08,Fiyi,OFC,Jugador 7,Jugador
+FIJ_09,Fiyi,OFC,Jugador 8,Jugador
+FIJ_10,Fiyi,OFC,Jugador 9,Jugador
+FIJ_11,Fiyi,OFC,Jugador 10,Jugador
+FIJ_12,Fiyi,OFC,Jugador 11,Jugador
+FIJ_13,Fiyi,OFC,Jugador 12,Jugador
+FIJ_14,Fiyi,OFC,Jugador 13,Jugador
+FIJ_15,Fiyi,OFC,Jugador 14,Jugador
+FIJ_16,Fiyi,OFC,Jugador 15,Jugador
+FIJ_17,Fiyi,OFC,Jugador 16,Jugador
+FIJ_18,Fiyi,OFC,Jugador 17,Jugador
+FIJ_19,Fiyi,OFC,Jugador 18,Jugador
+FIJ_20,Fiyi,OFC,Foto de Equipo,Especial
